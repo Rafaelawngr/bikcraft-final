@@ -1,7 +1,9 @@
-@import "./global/header.css";
-@import "./utils/typo.css";
 @import "./global/global.css";
+@import "./utils/typo.css";
 @import "./utils/colors.css";
+
+@import "./global/header.css";
+@import "./global/footer.css";
 
 @import "./utils/components.css";
 
